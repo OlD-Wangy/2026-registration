@@ -158,6 +158,37 @@
     "avatarUrl": "avatars/YOO_koishi.png"
   },
   {
+    "id": "annaYanami",
+    "name": "annaYanami",
+    "bio": "a single dog",
+    "tags": [
+      "linux",
+      "genshen",
+      "love"
+    ],
+    "social": {
+      "github": "jobhello",
+      "blog": ""
+    },
+    "avatarUrl": "avatars/annaYanami.jpg"
+  },
+  {
+    "id": "isHarryh",
+    "name": "Harry Huang",
+    "bio": "Code is Art. Code with Love.",
+    "tags": [
+      "AI",
+      "逆向工程",
+      "Web",
+      "Linux"
+    ],
+    "social": {
+      "github": "isHarryh",
+      "blog": "https://blog.harryh.cn"
+    },
+    "avatarUrl": "avatars/isHarryh.png"
+  },
+  {
     "id": "level",
     "name": "level",
     "bio": "请输入文本",
@@ -204,6 +235,34 @@
     "avatarUrl": "avatars/revlogi.jpg"
   },
   {
+    "id": "sadpotato",
+    "name": "sad_potato",
+    "bio": "I'm sad_potato but I'm not sad. 🐧",
+    "tags": [
+      "Arch",
+      "Web",
+      "C++"
+    ],
+    "social": {
+      "github": "sadpotato1006",
+      "blog": ""
+    },
+    "avatarUrl": "avatars/sadpotato.jpg"
+  },
+  {
+    "id": "sixdayC",
+    "name": "sixdayC",
+    "bio": "喜欢踢⚽️",
+    "tags": [
+      "⚽️"
+    ],
+    "social": {
+      "github": "sixday-C",
+      "blog": "https://sixday-c.github.io/"
+    },
+    "avatarUrl": "avatars/sixdayC.jpg"
+  },
+  {
     "id": "sxltj",
     "name": "山西落汤鸡",
     "bio": "What can I say?",
@@ -215,6 +274,21 @@
       "blog": "https://sxltj.github.io/"
     },
     "avatarUrl": "avatars/sxltj.png"
+  },
+  {
+    "id": "via-crucis",
+    "name": "via-crucis",
+    "bio": "该睡觉了",
+    "tags": [
+      "OS",
+      "Rust",
+      "Digital logic"
+    ],
+    "social": {
+      "github": "via-crucis462",
+      "blog": "https://yourblog.com"
+    },
+    "avatarUrl": "avatars/via-crucis.png"
   },
   {
     "id": "wdlin",
@@ -246,6 +320,19 @@
     "avatarUrl": "avatars/windy-wanderer.jpg"
   },
   {
+    "id": "ybnybny",
+    "name": "ybnybny",
+    "bio": ":)",
+    "tags": [
+      "None"
+    ],
+    "social": {
+      "github": "ybnybny",
+      "blog": "None"
+    },
+    "avatarUrl": "avatars/ybnybny.png"
+  },
+  {
     "id": "yufengc",
     "name": "yufengc",
     "bio": "我是臭看动漫，臭敲代码的q-q",
@@ -259,20 +346,5 @@
       "blog": "暂无....."
     },
     "avatarUrl": "avatars/yufengc.jpg"
-  },
-  {
-    "id": "zzx",
-    "name": "sad_potato",
-    "bio": "I'm sad_potato but I'm not sad. 🐧",
-    "tags": [
-      "Linux",
-      "Web",
-      "Rust"
-    ],
-    "social": {
-      "github": "yunqi10086",
-      "blog": ""
-    },
-    "avatarUrl": "avatars/zzx.jpg"
   }
 ]
